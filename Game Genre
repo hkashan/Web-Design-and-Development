@@ -1,0 +1,239 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Video Game Genres</title>
+<style type="text/css">
+header, nav, main, footer {
+	display: block;
+}
+header {
+color: white;
+text-align: center;
+background-image: url(background.jpg);
+padding-top: 1%;
+padding-right: 0%;
+padding-left: 1%;
+padding-bottom: 0%;
+}
+body {
+color: white;
+background-image: url(background.jpg);
+font-family: comfortaa;
+text-align: center;
+}
+img {
+border: 1px solid black;
+max-width: 100%;
+height: auto;
+padding-top: 1%;
+padding-right: 0%;
+padding-left: 1%;
+padding-bottom: 0%;
+}
+main {
+background-color: url(green.jpg);
+padding-top: 5%;
+padding-right: 10%;
+padding-left: 10%;
+padding-bottom: %;
+}
+.action {
+color: black;
+background-color: aqua;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.shooter {
+color: chartreuse;
+background-color: cadetblue;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.sports {
+color: magenta;
+background-color: darkgreen;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.fighting {
+color: deeppink;
+background-color: darkblue;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.platforming {
+color: indigo;
+background-color: goldenrod;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.racing {
+color: maroon;
+background-color: lavender;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.rpg {
+color: navy;
+background-color: mediumspringgreen;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.sandbox {
+color: seagreen;
+background-color: paleturquoise;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+.puzzle {
+color: slateblue;
+background-color: wheat;
+padding-top: 1%;
+padding-right: 2%;
+padding-bottom: 1%;
+padding-left: 2%;
+}
+
+h2 {
+color: white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1><font size="29">Choose Your Genre!</font></h1>
+</header>
+
+<img src="evolution.jpg">
+
+<main>
+<p><font size="5">HEY YOU! Yes you. Not the guy behind or next to you. Yes I'm talking to you fool! Are you into video games? More than that, are you OBSESSED about video games? Well here, and only here, you can learn more about what TYPE of video games are out there. You can race against your friends. Or if you really REALLY hate your friend, you can kick is his or her @$$#%L3 in a brutal fighting game.
+There are tons of genres of games out in the world now. Here you can learn what each type of video games are ment to do.</font></p>
+
+<h2>Action/Adventure</h2>
+<img src="batman.jpg">
+<div class="action">
+<p><font size="4">Action and Adventure games are actually two separate genres but they are commonly the two that go together perfectly to create the most diverse games. They usually have a story, from beginning to end. With some CGI cut-senses and emotion presence for the audience can relate too. Batman is a perfect example of these types of games which the first two games won 10 out of 10 on IGN. the third game is slacking.</font></p>
+</div>
+<img src="batman2.jpg">
+
+<hr>
+
+<h2>Shooter</h2>
+
+<img src="borderlands.jpg">
+<div class="shooter">
+<p><font size="4">Shooter games have been out for so long. From the classic DOOM to the multiplayer maps of Halo. Shooters have become more competitive through out the years and still are. Though now there are different styles of shooters. Usually you had your first-person shooter, but now there are third-person which is behind the shoulders like Gears of War and Borderlands which is a mix between RPG's and shooting. Very unique blend of gaming.</font>
+</p>
+</div>
+<img src="cod.jpg">
+
+<hr>
+
+<h2>Sports</h2>
+
+<img src="sports.jpg">
+<div class="sports">
+<p><font size="4">Sports have been huge even before video games, so making them into video games where anyone can feel like a player is an extraordinary idea. These style of games actually haven't evolved too much. They usually keep the same style of gameplay but every year or so they update such as new game modes or online play against  other people.</font>
+</p>
+</div>
+<img src="madden25.jpg">
+
+<hr>
+
+<h2>Fighting</h2>
+
+<img src="mortalkombat.jpg">
+<div class="fighting">
+<p><font size="4">Fighting games are a classic style of gaming. Along with platforming games, fighting games have been around sense the 80's. It was a great way to be competitive between friends or enemies.</font>
+</p>
+</div>
+<img src="mortalcombat2.jpg">
+
+<hr>
+
+<h2>Platforming</h2>
+
+<img src="mario.jpg">
+<div class="platforming">
+<p><font size="4">Platforming games have been around for a long time now. Starting in the early 1990's, when the N64 and Playstation were released, it became a huge success for game developers such as Nintendo for there "Super Mario" games as shown above. As well as another developer called "Naughty Dog" with there brillent creation of Crash Bandicoot. These styles of games were so popular in demand that it</font></p>
+</div>
+<img src="mario64.jpg">
+
+<hr>
+
+<h2>Racing</h2>
+
+<img src="nfs_cover.jpg">
+<div class="racing">
+<p><font size="4">Racing games have evolved from single circuit style to a more elaborate, and extreme open world style of racing. From crashing into other cars to dodging traffic on the on-coming lanes to evade cops, racing games have become a thrill to play and very competitive in co-op modes to reach the fast time.</font></p>
+</div>
+<img src="nfs_game.jpg">
+
+<hr>
+
+<h2>Role Playing Games (RPG's)</h2>
+
+<img src="pokemon.jpg">
+<div class="rpg">
+<p><font size="4">Role Playing Games other wises known as RPG's are very popular among old and new school gamers. RPG's usually require some kind of leveling system where the player can increase the stats of an object or the character itself within the game. For example, Pokemon can be caught by the player and then leveled up into bigger and stronger creatures. This is one well known example. Others are more customizable like Skyrim, where depending on what stats you increase, changes the way you progress through the game.</font></p>
+</div>
+<img src="skyrim.jpg">
+
+<hr>
+
+<h2>Open World/Sandbox</h2>
+
+<img src="gta.jpg">
+<div class="sandbox">
+<p><font size="4">Though relatively new, sandbox games are popular among the new gamers. These style of games let the player have full control of a character/car etc. in an open environment. This focuses on the player exploring different area's of a map or hidden objects in certain places that my be considered a challenge.</font></p>
+</div>
+<img src="gta5.jpg">
+
+<hr>
+
+<h2>Puzzle Games</h2>
+
+<img src="portal.jpg">
+<div class="puzzle">
+<p><font size="4">Puzzle games have been around sense the early 80's. They have evolved long sense its time. Now-a-days puzzle games can't be completed in less than thirty seconds but require much more thought to get to the solution. Portal is an excellent example is a physics mind-blown game that requires the user to use portals and velocity to complete certain tasks.</font></p>
+</div>
+<img src="portal2.jpg">
+
+<hr>
+
+<footer>
+<img src="bird.jpg">
+<p>For more information please check out <a href="http://www.ign.com/">IGN</a> for the lastest in video game entertainment</p>
+</footer>
+
+</main>
+
+</body>
+
+</html>
+
+
+
+
+
